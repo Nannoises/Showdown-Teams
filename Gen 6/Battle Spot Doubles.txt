@@ -1,0 +1,58 @@
+=== [gen6battlespotdoubles] Hex Gengar From Singles ===
+
+JANGLE (Klefki) (F) @ Leftovers  
+Ability: Prankster  
+EVs: 246 HP / 10 Atk / 252 SpD  
+Careful Nature  
+- Foul Play  
+- Play Rough  
+- Thunder Wave  
+- Swagger  
+
+Gengar @ Gengarite  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hypnosis  
+- Substitute  
+- Hex  
+- Sludge Bomb  
+
+Talonflame @ Rocky Helmet  
+Ability: Gale Wings  
+EVs: 172 HP / 244 Def / 92 Spe  
+Jolly Nature  
+- Brave Bird  
+- Will-O-Wisp  
+- Roost  
+- Taunt  
+
+LureChomp (Garchomp) @ Lum Berry  
+Ability: Rough Skin  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Stealth Rock  
+- Rock Tomb  
+
+RED (Greninja) (M) @ Focus Sash  
+Ability: Protean  
+EVs: 6 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Grass Knot  
+- Ice Beam  
+- Water Shuriken  
+
+CRISPY (Blaziken) (M) @ Life Orb  
+Ability: Speed Boost  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Adamant Nature  
+IVs: 18 SpA  
+- Protect  
+- Stone Edge  
+- Low Kick  
+- Flare Blitz  
+
+

@@ -1,3 +1,69 @@
+=== [gen7vgc2017] Tentacruel Lele Source ===
+
+Tentacruel @ Assault Vest  
+Ability: Liquid Ooze  
+Level: 50  
+EVs: 252 HP / 12 SpA / 20 SpD / 224 Spe  
+Timid Nature  
+- Knock Off  
+- Acid Spray  
+- Scald  
+- Ice Beam  
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Dazzling Gleam  
+- Protect  
+
+Arcanine @ Choice Band  
+Ability: Intimidate  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Wild Charge  
+- Extreme Speed  
+- Close Combat  
+
+Aerodactyl @ Focus Sash  
+Ability: Unnerve  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sky Drop  
+- Rock Slide  
+- Tailwind  
+- Taunt  
+
+Mudsdale @ Sitrus Berry  
+Ability: Stamina  
+Level: 50  
+EVs: 132 HP / 252 Atk / 124 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- High Horsepower  
+- Heavy Slam  
+- Rock Tomb  
+- Protect  
+
+Goodra @ Life Orb  
+Ability: Sap Sipper  
+Level: 50  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Thunderbolt  
+- Flamethrower  
+- Protect  
+
+
 === [gen7vgc2017] Pink Poison 1.01 ===
 
 PBJ (Tentacruel) (M) @ Assault Vest  

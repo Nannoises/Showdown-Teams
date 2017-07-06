@@ -415,3 +415,120 @@ Jolly Nature
 - Rock Tomb  
 
 
+=== [gen6battlespotsingles] SANDSTORM ===
+
+THE CRUMBLER (Aegislash) @ Weakness Policy  
+Ability: Stance Change  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Gentle Nature  
+- Shadow Ball  
+- Shadow Sneak  
+- King's Shield  
+- Sacred Sword  
+
+Sandor (Garchomp) @ Garchompite  
+Ability: Sand Veil  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Sandstorm  
+- Stone Edge  
+
+SPECTRA (Gengar) (F) @ Gengarite  
+Ability: Cursed Body  
+EVs: 252 SpA / 6 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Sludge Bomb  
+- Shadow Ball  
+- Destiny Bond  
+
+DUDUDUDUDOOT (Tyranitar) (F) @ Smooth Rock  
+Ability: Sand Stream  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Jolly Nature  
+- Ice Punch  
+- Stone Edge  
+- Pursuit  
+- Superpower  
+
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rock Slide  
+- Swords Dance  
+
+Serperior @ Rocky Helmet  
+Ability: Contrary  
+EVs: 116 HP / 220 Def / 172 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Reflect  
+- Synthesis  
+- Leaf Storm  
+- Glare  
+
+
+=== [gen6battlespotsingles] Hex Trapper New ===
+
+JANGLE (Klefki) (F) @ Leftovers  
+Ability: Prankster  
+EVs: 246 HP / 10 Atk / 252 SpD  
+Careful Nature  
+- Foul Play  
+- Play Rough  
+- Thunder Wave  
+- Swagger  
+
+Gengar @ Gengarite  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hypnosis  
+- Substitute  
+- Hex  
+- Sludge Bomb  
+
+Talonflame @ Rocky Helmet  
+Ability: Gale Wings  
+EVs: 172 HP / 244 Def / 92 Spe  
+Jolly Nature  
+- Brave Bird  
+- Will-O-Wisp  
+- Roost  
+- Taunt  
+
+LureChomp (Garchomp) @ Lum Berry  
+Ability: Rough Skin  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Stealth Rock  
+- Rock Tomb  
+
+RED (Greninja) (M) @ Focus Sash  
+Ability: Protean  
+EVs: 6 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Grass Knot  
+- Ice Beam  
+- Water Shuriken  
+
+CRISPY (Blaziken) (M) @ Life Orb  
+Ability: Speed Boost  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Adamant Nature  
+IVs: 18 SpA  
+- Protect  
+- Stone Edge  
+- Low Kick  
+- Flare Blitz  
+
+
