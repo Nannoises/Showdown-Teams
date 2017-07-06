@@ -1,0 +1,417 @@
+=== [gen6battlespotsingles] Brute Force Singles Team ===
+
+Talonflame @ Choice Band  
+Ability: Gale Wings  
+EVs: 44 HP / 244 Atk / 220 Spe  
+Adamant Nature  
+- Brave Bird  
+- Flare Blitz  
+- U-turn  
+- Tailwind  
+
+MAIASAURA (Kangaskhan) @ Kangaskhanite  
+Ability: Scrappy  
+EVs: 6 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Double-Edge  
+- Power-Up Punch  
+
+Garchomp @ Choice Scarf  
+Ability: Rough Skin  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Rock Slide  
+- Dragon Claw  
+
+RED (Greninja) (M) @ Focus Sash  
+Ability: Protean  
+EVs: 6 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Extrasensory  
+- Ice Beam  
+- Water Shuriken  
+
+CRISPY (Blaziken) (M) @ Life Orb  
+Ability: Speed Boost  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Adamant Nature  
+- Protect  
+- Stone Edge  
+- Low Kick  
+- Flare Blitz  
+
+SPECTRA (Gengar) (F) @ Gengarite  
+Ability: Cursed Body  
+Happiness: 0  
+EVs: 252 SpA / 6 SpD / 252 Spe  
+Timid Nature  
+- Focus Blast  
+- Sludge Bomb  
+- Shadow Ball  
+- Destiny Bond  
+
+
+=== [gen6battlespotsingles] Mega Mawile Singles Team ===
+
+Gengar @ Black Sludge  
+Ability: Cursed Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Substitute  
+- Disable  
+- Shadow Ball  
+- Focus Blast  
+
+Mawile @ Mawilite  
+Ability: Intimidate  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Play Rough  
+- Sucker Punch  
+- Swords Dance  
+- Knock Off  
+
+Talonflame @ Rocky Helmet  
+Ability: Gale Wings  
+EVs: 172 HP / 244 Def / 92 Spe  
+Jolly Nature  
+- Brave Bird  
+- Will-O-Wisp  
+- Roost  
+- Taunt  
+
+JANGLE (Klefki) (F) @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 10 Atk / 252 SpD  
+Careful Nature  
+- Foul Play  
+- Play Rough  
+- Thunder Wave  
+- Swagger  
+
+RED (Greninja) (M) @ Focus Sash  
+Ability: Protean  
+EVs: 6 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Extrasensory  
+- Ice Beam  
+- Water Shuriken  
+
+DUDUDUDUDOOT (Tyranitar) (F) @ Choice Scarf  
+Ability: Sand Stream  
+Happiness: 0  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+- Superpower  
+
+
+=== [gen6battlespotsingles] Scratch ===
+
+THE CRUMBLER (Aegislash) @ Weakness Policy  
+Ability: Stance Change  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Gentle Nature  
+- Shadow Ball  
+- Shadow Sneak  
+- King's Shield  
+- Sacred Sword  
+
+LureChomp (Garchomp) @ Lum Berry  
+Ability: Rough Skin  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Stealth Rock  
+- Rock Tomb  
+
+MAIASAURA (Kangaskhan) @ Kangaskhanite  
+Ability: Scrappy  
+EVs: 6 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Double-Edge  
+- Power-Up Punch  
+
+SPECTRA (Gengar) (F) @ Gengarite  
+Ability: Cursed Body  
+EVs: 252 SpA / 6 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Sludge Bomb  
+- Shadow Ball  
+- Destiny Bond  
+
+RED (Greninja) (M) @ Focus Sash  
+Ability: Protean  
+EVs: 6 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Extrasensory  
+- Ice Beam  
+- Shadow Sneak  
+
+CRISPY (Blaziken) (M) @ Life Orb  
+Ability: Speed Boost  
+Happiness: 0  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Adamant Nature  
+IVs: 18 SpA  
+- Protect  
+- Stone Edge  
+- Low Kick  
+- Flare Blitz  
+
+
+=== [gen6battlespotsingles] Scratch 2 ===
+
+MAIASAURA (Kangaskhan) @ Kangaskhanite  
+Ability: Scrappy  
+EVs: 6 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Double-Edge  
+- Power-Up Punch  
+
+SPECTRA (Gengar) (F) @ Gengarite  
+Ability: Cursed Body  
+EVs: 252 SpA / 6 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Sludge Bomb  
+- Shadow Ball  
+- Destiny Bond  
+
+CRISPY (Blaziken) (M) @ Life Orb  
+Ability: Speed Boost  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Adamant Nature  
+IVs: 18 SpA  
+- Protect  
+- Stone Edge  
+- Low Kick  
+- Flare Blitz  
+
+RED (Greninja) (M) @ Focus Sash  
+Ability: Protean  
+EVs: 6 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Extrasensory  
+- Ice Beam  
+- Shadow Sneak  
+
+Bulky Rocky Helmet (Talonflame) @ Rocky Helmet  
+Ability: Gale Wings  
+EVs: 172 HP / 244 Def / 92 Spe  
+Jolly Nature  
+- Brave Bird  
+- Will-O-Wisp  
+- Roost  
+- Taunt  
+
+Tank Chomp (Garchomp) @ Rocky Helmet  
+Ability: Rough Skin  
+Happiness: 0  
+EVs: 240 HP / 176 Def / 92 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+
+
+=== [gen6battlespotsingles] Scratch 3 ===
+
+THE CRUMBLER (Aegislash) @ Weakness Policy  
+Ability: Stance Change  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Gentle Nature  
+- Shadow Ball  
+- Shadow Sneak  
+- King's Shield  
+- Sacred Sword  
+
+LureChomp (Garchomp) @ Focus Sash  
+Ability: Rough Skin  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Stealth Rock  
+- Rock Tomb  
+
+MAIASAURA (Kangaskhan) @ Kangaskhanite  
+Ability: Scrappy  
+EVs: 6 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Double-Edge  
+- Power-Up Punch  
+
+SPECTRA (Gengar) (F) @ Gengarite  
+Ability: Cursed Body  
+EVs: 252 SpA / 6 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Sludge Bomb  
+- Shadow Ball  
+- Destiny Bond  
+
+RED (Greninja) (M) @ Focus Sash  
+Ability: Protean  
+EVs: 6 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Extrasensory  
+- Ice Beam  
+- Shadow Sneak  
+
+CRISPY (Blaziken) (M) @ Life Orb  
+Ability: Speed Boost  
+Happiness: 0  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Adamant Nature  
+IVs: 18 SpA  
+- Protect  
+- Stone Edge  
+- Low Kick  
+- Flare Blitz  
+
+
+=== [gen6battlespotsingles] Battle Spot Singles CART ===
+
+MAIASAURA (Kangaskhan) @ Kangaskhanite  
+Ability: Scrappy  
+EVs: 6 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Double-Edge  
+- Power-Up Punch  
+
+DUDUDUDUDOOT (Tyranitar) (F) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Jolly Nature  
+IVs: 20 SpA  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+- Superpower  
+
+JANGLE (Klefki) (F) @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 10 Atk / 252 SpD  
+Careful Nature  
+IVs: 27 SpA  
+- Spikes  
+- Play Rough  
+- Thunder Wave  
+- Toxic  
+
+SPECTRA (Gengar) (F) @ Gengarite  
+Ability: Cursed Body  
+EVs: 252 SpA / 6 SpD / 252 Spe  
+Timid Nature  
+IVs: 21 Atk  
+- Focus Blast  
+- Sludge Bomb  
+- Shadow Ball  
+- Destiny Bond  
+
+CRISPY (Blaziken) (M) @ Life Orb  
+Ability: Speed Boost  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Adamant Nature  
+IVs: 18 SpA  
+- Protect  
+- Stone Edge  
+- Low Kick  
+- Flare Blitz  
+
+RED (Greninja) (M) @ Focus Sash  
+Ability: Protean  
+Happiness: 0  
+EVs: 6 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 14 Atk  
+- Dark Pulse  
+- Extrasensory  
+- Ice Beam  
+- Hydro Pump  
+
+
+=== [gen6battlespotsingles] Hex Trapper Gengar ===
+
+JANGLE (Klefki) (F) @ Leftovers  
+Ability: Prankster  
+EVs: 248 HP / 10 Atk / 252 SpD  
+Careful Nature  
+- Foul Play  
+- Play Rough  
+- Thunder Wave  
+- Toxic  
+
+Gengar @ Gengarite  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hypnosis  
+- Substitute  
+- Hex  
+- Sludge Bomb  
+
+Talonflame @ Rocky Helmet  
+Ability: Gale Wings  
+EVs: 172 HP / 244 Def / 92 Spe  
+Jolly Nature  
+- Brave Bird  
+- Will-O-Wisp  
+- Roost  
+- Taunt  
+
+Suicune @ Chesto Berry  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Calm Mind  
+- Scald  
+- Ice Beam  
+- Rest  
+
+Aegislash @ Air Balloon  
+Ability: Stance Change  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+- Substitute  
+- Toxic  
+- King's Shield  
+- Shadow Ball  
+
+LureChomp (Garchomp) @ Lum Berry  
+Ability: Rough Skin  
+Happiness: 0  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Stealth Rock  
+- Rock Tomb  
+
+
