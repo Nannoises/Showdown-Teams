@@ -309,3 +309,63 @@ Timid Nature
 - Protect  
 
 
+=== [gen7vgc2017] Team 3.3 ===
+
+Marowak-Alola (F) @ Thick Club  
+Ability: Lightning Rod  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+IVs: 14 SpA  
+- Flare Blitz  
+- Shadow Bone  
+- Bonemerang  
+- Protect  
+
+Thousand (Kartana) @ Fightinium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 6 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Swords Dance  
+- Smart Strike  
+- Sacred Sword  
+
+Snorlax @ Iapapa Berry  
+Ability: Gluttony  
+EVs: 68 HP / 196 Atk / 244 Def  
+Brave Nature  
+- Facade  
+- High Horsepower  
+- Curse  
+- Recycle  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Dazzling Gleam  
+- Volt Switch  
+- Protect  
+
+Oranguru @ Mental Herb  
+Ability: Inner Focus  
+EVs: 252 HP / 140 Def / 20 SpA / 92 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Trick Room  
+- Psychic  
+- Instruct  
+- Protect  
+
+StuffPuppers (Arcanine) (M) @ Aguav Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 188 Def / 78 SpD  
+Calm Nature  
+- Flamethrower  
+- Extreme Speed  
+- Will-O-Wisp  
+- Protect  
+
+
