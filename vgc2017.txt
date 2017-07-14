@@ -247,3 +247,67 @@ Timid Nature
 - Protect  
 
 
+=== [gen7vgc2017] Psycho Balloon ===
+
+Drifblim @ Psychic Seed  
+Ability: Unburden  
+Level: 50  
+EVs: 12 HP / 236 Def / 12 SpA / 236 SpD / 12 Spe  
+Timid Nature  
+- Shadow Ball  
+- Tailwind  
+- Will-O-Wisp  
+- Disable  
+
+Fey Bae (Tapu Lele) @ Psychium Z  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 252 SpA / 6 SpD / 252 Spe  
+Timid Nature  
+- Protect  
+- Dazzling Gleam  
+- Psychic  
+- Moonblast  
+
+StuffPuppers (Arcanine) (M) @ Aguav Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 188 Def / 78 SpD  
+Calm Nature  
+IVs: 2 Atk  
+- Flamethrower  
+- Helping Hand  
+- Will-O-Wisp  
+- Protect  
+
+Marowak-Alola (F) @ Thick Club  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 132 HP / 252 Atk / 124 Spe  
+Adamant Nature  
+IVs: 14 SpA  
+- Flare Blitz  
+- Shadow Bone  
+- Bonemerang  
+- Protect  
+
+Thousand (Kartana) @ Focus Sash  
+Ability: Beast Boost  
+Happiness: 0  
+EVs: 252 Atk / 6 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Swords Dance  
+- Smart Strike  
+- Sacred Sword  
+
+Snorlax @ Iapapa Berry  
+Ability: Gluttony  
+EVs: 68 HP / 196 Atk / 244 Def  
+Brave Nature  
+- Facade  
+- High Horsepower  
+- Curse  
+- Recycle  
+
+
