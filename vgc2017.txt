@@ -254,10 +254,11 @@ Ability: Unburden
 Level: 50  
 EVs: 12 HP / 236 Def / 12 SpA / 236 SpD / 12 Spe  
 Timid Nature  
+IVs: 0 Atk  
 - Shadow Ball  
 - Tailwind  
 - Will-O-Wisp  
-- Disable  
+- Sunny Day  
 
 Fey Bae (Tapu Lele) @ Psychium Z  
 Ability: Psychic Surge  
