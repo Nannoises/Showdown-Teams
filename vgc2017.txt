@@ -320,7 +320,7 @@ Timid Nature
 IVs: 0 Atk  
 - Moonblast  
 - Tailwind  
-- Fake Tears  
+- Taunt  
 - Sunny Day  
 
 Fey Bae (Tapu Lele) @ Psychium Z  
