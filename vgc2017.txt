@@ -126,16 +126,6 @@ IVs: 0 Atk
 
 === [gen7vgc2017] Pink Poison 1.01 ===
 
-PBJ (Tentacruel) (M) @ Assault Vest  
-Ability: Liquid Ooze  
-Shiny: Yes  
-EVs: 252 HP / 12 SpA / 20 SpD / 226 Spe  
-Timid Nature  
-- Ice Beam  
-- Scald  
-- Acid Spray  
-- Sludge Wave  
-
 Fey Bae (Tapu Lele) @ Psychium Z  
 Ability: Psychic Surge  
 EVs: 252 SpA / 6 SpD / 252 Spe  
@@ -186,6 +176,16 @@ Jolly Nature
 - Swords Dance  
 - Smart Strike  
 - Sacred Sword  
+
+Whimsicott @ Focus Sash  
+Ability: Prankster  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Tailwind  
+- Sunny Day  
+- Fake Tears  
 
 
 === [gen7vgc2017] Team 3.2 ===
@@ -245,6 +245,7 @@ Timid Nature
 - Flamethrower  
 - Hydro Pump  
 - Protect  
+
 
 === [gen7vgc2017] Psycho Balloon ===
 
@@ -320,7 +321,7 @@ IVs: 0 Atk
 - Moonblast  
 - Tailwind  
 - Fake Tears  
-- Taunt  
+- Sunny Day  
 
 Fey Bae (Tapu Lele) @ Psychium Z  
 Ability: Psychic Surge  
@@ -370,4 +371,5 @@ Jolly Nature
 - Wild Charge  
 - Extreme Speed  
 - Close Combat  
+
 
