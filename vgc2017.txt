@@ -252,7 +252,7 @@ Timid Nature
 Drifblim @ Psychic Seed  
 Ability: Unburden  
 Level: 50  
-EVs: 12 HP / 236 Def / 12 SpA / 236 SpD / 12 Spe  
+EVs: 252 HP / 4 SpA / 48 SpD / 204 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Shadow Ball  
