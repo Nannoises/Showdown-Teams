@@ -296,7 +296,7 @@ EVs: 68 HP / 196 Atk / 244 Def
 Brave Nature  
 - Facade  
 - High Horsepower  
-- Curse  
+- Belly Drum  
 - Recycle  
 
 Arcanine @ Choice Band  
