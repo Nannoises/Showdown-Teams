@@ -1,252 +1,3 @@
-=== [gen7vgc2017] Team 3.3 ===
-
-Marowak-Alola (F) @ Thick Club  
-Ability: Lightning Rod  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-IVs: 14 SpA  
-- Flare Blitz  
-- Shadow Bone  
-- Bonemerang  
-- Protect  
-
-Thousand (Kartana) @ Fightinium Z  
-Ability: Beast Boost  
-EVs: 252 Atk / 6 SpD / 252 Spe  
-Jolly Nature  
-- Leaf Blade  
-- Swords Dance  
-- Smart Strike  
-- Sacred Sword  
-
-Snorlax @ Iapapa Berry  
-Ability: Gluttony  
-EVs: 68 HP / 196 Atk / 244 Def  
-Brave Nature  
-- Facade  
-- High Horsepower  
-- Curse  
-- Recycle  
-
-Tapu Koko @ Electrium Z  
-Ability: Electric Surge  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Thunderbolt  
-- Dazzling Gleam  
-- Volt Switch  
-- Protect  
-
-Oranguru @ Mental Herb  
-Ability: Inner Focus  
-EVs: 252 HP / 140 Def / 20 SpA / 92 SpD  
-Sassy Nature  
-IVs: 0 Spe  
-- Trick Room  
-- Psychic  
-- Instruct  
-- Protect  
-
-StuffPuppers (Arcanine) (M) @ Aguav Berry  
-Ability: Intimidate  
-Level: 50  
-EVs: 244 HP / 188 Def / 78 SpD  
-Calm Nature  
-- Flamethrower  
-- Extreme Speed  
-- Will-O-Wisp  
-- Protect  
-
-
-=== [gen7vgc2017] Tentacruel Lele Source ===
-
-Tentacruel @ Assault Vest  
-Ability: Liquid Ooze  
-Level: 50  
-EVs: 252 HP / 12 SpA / 20 SpD / 224 Spe  
-Timid Nature  
-- Knock Off  
-- Acid Spray  
-- Scald  
-- Ice Beam  
-
-Tapu Lele @ Psychium Z  
-Ability: Psychic Surge  
-Level: 50  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Psychic  
-- Moonblast  
-- Dazzling Gleam  
-- Protect  
-
-Arcanine @ Choice Band  
-Ability: Intimidate  
-Level: 50  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Flare Blitz  
-- Wild Charge  
-- Extreme Speed  
-- Close Combat  
-
-Aerodactyl @ Focus Sash  
-Ability: Unnerve  
-Level: 50  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Sky Drop  
-- Rock Slide  
-- Tailwind  
-- Taunt  
-
-Mudsdale @ Sitrus Berry  
-Ability: Stamina  
-Level: 50  
-EVs: 132 HP / 252 Atk / 124 SpD  
-Brave Nature  
-IVs: 0 Spe  
-- High Horsepower  
-- Heavy Slam  
-- Rock Tomb  
-- Protect  
-
-Goodra @ Life Orb  
-Ability: Sap Sipper  
-Level: 50  
-EVs: 252 HP / 252 SpA / 4 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Draco Meteor  
-- Thunderbolt  
-- Flamethrower  
-- Protect  
-
-
-=== [gen7vgc2017] Pink Poison 1.01 ===
-
-Fey Bae (Tapu Lele) @ Psychium Z  
-Ability: Psychic Surge  
-EVs: 252 SpA / 6 SpD / 252 Spe  
-Timid Nature  
-- Protect  
-- Dazzling Gleam  
-- Psychic  
-- Moonblast  
-
-StuffPuppers (Arcanine) (M) @ Aguav Berry  
-Ability: Intimidate  
-Level: 50  
-EVs: 244 HP / 188 Def / 78 SpD  
-Calm Nature  
-IVs: 2 Atk  
-- Flamethrower  
-- Helping Hand  
-- Will-O-Wisp  
-- Protect  
-
-Marowak-Alola (F) @ Thick Club  
-Ability: Lightning Rod  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-IVs: 14 SpA  
-- Flare Blitz  
-- Shadow Bone  
-- Bonemerang  
-- Protect  
-
-Ninetales-Alola (F) @ Light Clay  
-Ability: Snow Warning  
-Shiny: Yes  
-EVs: 252 SpA / 6 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Aurora Veil  
-- Freeze-Dry  
-- Moonblast  
-- Hidden Power [Fire]  
-
-Thousand (Kartana) @ Focus Sash  
-Ability: Beast Boost  
-Happiness: 0  
-EVs: 252 Atk / 6 SpD / 252 Spe  
-Jolly Nature  
-- Leaf Blade  
-- Swords Dance  
-- Smart Strike  
-- Sacred Sword  
-
-Whimsicott @ Focus Sash  
-Ability: Prankster  
-EVs: 252 HP / 4 Def / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Tailwind  
-- Sunny Day  
-- Fake Tears  
-
-
-=== [gen7vgc2017] Team 3.2 ===
-
-Marowak-Alola (F) @ Thick Club  
-Ability: Lightning Rod  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-IVs: 14 SpA  
-- Flare Blitz  
-- Shadow Bone  
-- Bonemerang  
-- Protect  
-
-Thousand (Kartana) @ Fightinium Z  
-Ability: Beast Boost  
-EVs: 252 Atk / 6 SpD / 252 Spe  
-Jolly Nature  
-- Leaf Blade  
-- Swords Dance  
-- Smart Strike  
-- Sacred Sword  
-
-Snorlax @ Iapapa Berry  
-Ability: Gluttony  
-EVs: 68 HP / 196 Atk / 244 Def  
-Brave Nature  
-- Facade  
-- High Horsepower  
-- Curse  
-- Recycle  
-
-Tapu Koko @ Electrium Z  
-Ability: Electric Surge  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Thunderbolt  
-- Dazzling Gleam  
-- Volt Switch  
-- Protect  
-
-Oranguru @ Mental Herb  
-Ability: Inner Focus  
-EVs: 252 HP / 140 Def / 20 SpA / 92 SpD  
-Sassy Nature  
-IVs: 0 Spe  
-- Trick Room  
-- Psychic  
-- Instruct  
-- Protect  
-
-Salamence @ Dragonium Z  
-Ability: Intimidate  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Draco Meteor  
-- Flamethrower  
-- Hydro Pump  
-- Protect  
-
-
 === [gen7vgc2017] Psycho Balloon ===
 
 Drifblim @ Psychic Seed  
@@ -292,6 +43,7 @@ Jolly Nature
 
 Snorlax @ Iapapa Berry  
 Ability: Gluttony  
+Level: 50  
 EVs: 68 HP / 196 Atk / 244 Def  
 Brave Nature  
 - Facade  
@@ -310,7 +62,7 @@ Jolly Nature
 - Close Combat  
 
 
-=== [gen7vgc2017] Psycho Puff ===
+=== [gen7vgc2017] Psycho Puff - Testing ===
 
 Whimsicott @ Focus Sash  
 Ability: Infiltrator  
@@ -318,7 +70,7 @@ Level: 50
 EVs: 252 HP / 4 Def / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Moonblast  
+- Nature Power  
 - Tailwind  
 - Taunt  
 - Sunny Day  
@@ -362,14 +114,13 @@ Brave Nature
 - Curse  
 - Recycle  
 
-Arcanine @ Choice Band  
-Ability: Intimidate  
-Level: 50  
+Pheromosa @ Life Orb  
+Ability: Beast Boost  
 EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
-- Flare Blitz  
-- Wild Charge  
-- Extreme Speed  
-- Close Combat  
+Naughty Nature  
+- High Jump Kick  
+- Poison Jab  
+- Ice Beam  
+- Protect  
 
 
